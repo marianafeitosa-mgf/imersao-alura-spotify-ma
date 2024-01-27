@@ -1,1 +1,1 @@
-# spotify-imers-o-alura-
+# imersao-alura-spotify-ma
